@@ -1,0 +1,23 @@
+{
+  "name": "sos-for-dummies",
+  "version": "1.0.0",
+  "description": "A web page for dummies to find the correct phone number when specific emergency occurs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katrina376/sos-for-dummies.git"
+  },
+  "keywords": [
+    "emergency",
+    "phone"
+  ],
+  "author": "Katrina Chan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/katrina376/sos-for-dummies/issues"
+  },
+  "homepage": "https://github.com/katrina376/sos-for-dummies#readme"
+}
