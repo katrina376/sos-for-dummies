@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/katrina376/sos-for-dummies/issues"
   },
-  "homepage": "https://github.com/katrina376/sos-for-dummies#readme"
+  "homepage": "https://github.com/katrina376/sos-for-dummies#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
